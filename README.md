@@ -1,6 +1,6 @@
 # Trading — Java
 
-**Trading-java** is a Java 24 client library for the [TradingBrokerTest](https://tradingbrokertest.com) tradingbrokertestage REST API. It provides typed, fully deserialized access to market data (real-time quotes, options chains, historical OHLCV prices, market clock), order management (equity and option orders — placement, inspection, modification, and cancellation), account information (balances, positions, gain/loss reporting), user profile, and watchlists. The library is built on OkHttp3 for HTTP transport and Jackson for JSON deserialization, and supports both the live production and paper-trading sandbox environments through a sealed `TradingBrokerTestError` exception hierarchy.
+**Trading-java** is a Java 24 client library for the [TradingBrokerTest](https://tradingbrokertest.com) ( This is just for Testing purpose and locally build and not for general purpose) tradingbrokertestage REST API. It provides typed, fully deserialized access to market data (real-time quotes, options chains, historical OHLCV prices, market clock), order management (equity and option orders — placement, inspection, modification, and cancellation), account information (balances, positions, gain/loss reporting), user profile, and watchlists. The library is built on OkHttp3 for HTTP transport and Jackson for JSON deserialization, and supports both the live production and paper-trading sandbox environments through a sealed `TradingBrokerTestError` exception hierarchy.
 
 ---
 
