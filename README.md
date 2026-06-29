@@ -384,7 +384,3 @@ The `effectiveBaseUrl()` method returns `sandboxUrl` when `environment == SANDBO
 | `org.junit.jupiter:junit-jupiter` | 5.10.3 | test |
 
 ---
-
-## License
-
-See [LICENSE](LICENSE) for details.
